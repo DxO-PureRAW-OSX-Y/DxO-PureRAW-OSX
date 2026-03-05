@@ -1,7 +1,7 @@
 # DxO PureRAW – RAW Photo Processor
 
 <p align="center">
-  <img src="https://xtmac.cn/wp-content/uploads/2025/02/pureraw.webp" width="200" alt="DxO PureRAW icon"/>
+  <img src="https://cyme.io/wp-content/uploads/2024/09/PureRAW-conversions.webp" width="200" alt="DxO PureRAW icon"/>
 </p>
 
 <p align="center">
